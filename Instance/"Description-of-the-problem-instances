@@ -1,7 +1,0 @@
-The first line contains the number of periods;
-The second line contains the number of tariff types;
-The third line contains the number of tasks;
-The fourth line represents the prices of the low, medium, and high tariffs, in that order;
-The fifth line represents the distribution of tariffs during the periods;
-The sixth line represents the processing times of the tasks;
-The seventh line represents the energy consumption of the tasks; all these number should be multiplied by 1000.
